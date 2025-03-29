@@ -1,0 +1,4 @@
+PyQt6>=6.4.0
+Pillow>=9.3.0
+pywin32>=305
+PyInstaller>=5.6.0 
